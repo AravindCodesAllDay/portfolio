@@ -3,7 +3,7 @@ export default function Resume() {
     <a
       href="/aravind-codes-all-day.jpg"
       download="aravind-codes-all-day.jpg"
-      className="absolute top-8 right-8 z-30 text-light md:text-black dark:text-light cursor-none"
+      className="absolute top-8 right-8 z-30 text-light md:text-black dark:text-light hover:scale-105 cursor-none"
     >
       <svg
         width="30"
